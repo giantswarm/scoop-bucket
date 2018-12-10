@@ -5,12 +5,12 @@
   "license": "APACHE-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://downloads.giantswarm.io/gsctl/0.14.4/gsctl-0.14.4-windows-amd64.zip",
+      "url": "https://github.com/giantswarm/gsctl/releases/download/0.14.4/gsctl-0.14.4-windows-amd64.zip",
       "hash": "ab706e1874d08162248b97e3093cb2e4db58e415b9d7fe5bb0429fe938c4f15c",
       "extract_dir": "gsctl-0.14.4-windows-amd64"
     },
     "32bit": {
-      "url": "https://downloads.giantswarm.io/gsctl/0.14.4/gsctl-0.14.4-windows-386.zip",
+      "url": "https://github.com/giantswarm/gsctl/releases/download/0.14.4/gsctl-0.14.4-windows-386.zip",
       "hash": "5b2cb6534c5a94e89f6a7f7be5164f60ad52dd10e7bb659ed71c35df10452c3f",
       "extract_dir": "gsctl-0.14.4-windows-386"
     }
