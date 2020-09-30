@@ -1,18 +1,18 @@
 {
-  "version": "0.24.2",
+  "version": "0.24.3",
   "homepage": "https://github.com/giantswarm/gsctl/",
   "bin": "gsctl.exe",
   "license": "APACHE-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/giantswarm/gsctl/releases/download/0.24.2/gsctl-0.24.2-windows-amd64.zip",
-      "hash": "2aa5beb83bfe630b17e6c711a5caef9faf92c5a488a20bab352dbcde28099f59",
-      "extract_dir": "gsctl-0.24.2-windows-amd64"
+      "url": "https://github.com/giantswarm/gsctl/releases/download/0.24.3/gsctl-0.24.3-windows-amd64.zip",
+      "hash": "8517da8a5c7646e22cfb31420dc83d9cb2f687834e88d9151b72b5b1d7ea4b69",
+      "extract_dir": "gsctl-0.24.3-windows-amd64"
     },
     "32bit": {
-      "url": "https://github.com/giantswarm/gsctl/releases/download/0.24.2/gsctl-0.24.2-windows-386.zip",
-      "hash": "6af7b83b3adf74c2716ab6162438deb509d65253b1ad19e1b5c3f9927283d72b",
-      "extract_dir": "gsctl-0.24.2-windows-386"
+      "url": "https://github.com/giantswarm/gsctl/releases/download/0.24.3/gsctl-0.24.3-windows-386.zip",
+      "hash": "d7b20d8a8c9e57cd1248d7ae7c69619594005afff8d7dc363f867a58b9e90bd7",
+      "extract_dir": "gsctl-0.24.3-windows-386"
     }
   }
 }
